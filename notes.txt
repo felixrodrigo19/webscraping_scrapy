@@ -1,0 +1,5 @@
+Foi utilizado o plugin selectorgadget do Google Chrome para localizar os CSSs.
+.titleColumn	- pega nome e ano do filme
+.titleColumn a	- pega o nome do filme
+.secondaryInfo	- pega o ano do filme
+strong		- pega a avaliação do filme
